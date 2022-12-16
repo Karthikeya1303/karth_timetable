@@ -1,0 +1,34 @@
+table{
+	width:100px;
+	border-spacing: 2px;
+}
+
+table,td{
+	border:3px solid steelblue;
+	border-collapse:collapse;
+}
+
+td{
+	padding:10px;
+}
+caption{
+	font-size: 45px;
+}
+.Gray{
+	background-color: lightgrey;
+}
+.Violet{
+	background-color:blueviolet;
+}
+.Pale{
+	background-color: paleturquoise;
+}
+.Gold{
+	background-color: palegoldenrod;
+}
+.Dark{
+	background-color:lightgoldenrodyellow;
+}
+body{
+	background-color:whitesmoke;
+}
